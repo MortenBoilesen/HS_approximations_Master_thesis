@@ -1,4 +1,5 @@
 # Github repository containing relevant code and data for master thesis: Hilbert space approximations of Gaussian processes in Bayesian modelling 
+
 Master thesis project by:
 Johanne Hvidberg Conradsen and Morten Rahbæk Boilesen
 
