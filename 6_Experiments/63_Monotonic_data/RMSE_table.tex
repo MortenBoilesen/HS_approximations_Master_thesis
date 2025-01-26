@@ -1,0 +1,14 @@
+\begin{table}[] 
+ \centering
+\begin{tabular}{lrrrr}
+\hline
+ & \begin{tabular}[c]{@{}l@{}}baseline GP\\~\end{tabular} & \begin{tabular}[c]{@{}l@{}}HS model\\m: 5, L: 10\end{tabular} & \begin{tabular}[c]{@{}l@{}}VP model\\num virtual: 5\end{tabular} & \begin{tabular}[c]{@{}l@{}}SDE model\\M: 20, T: 2, kernel: sq\_exp\end{tabular} \\
+\hline
+mean & 0.382 & 0.125 & 0.593 & \textbf{0.069} \\
+\hline
+\textbf{rank} & \textbf{3.0} & \textbf{2.0} & \textbf{4.0} & \textbf{1.0}\\
+\hline
+\end{tabular}
+\caption{rmse}
+\label{tab:rmse}
+\end{table}
