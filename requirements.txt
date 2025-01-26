@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pystan
+scipy
+pandas
+tensorflow
+autograd
