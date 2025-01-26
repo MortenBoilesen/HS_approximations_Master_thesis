@@ -1,9 +1,0 @@
-model: exp
-num_virtual: 5, RMSE: 1.175, RMSE_std: 0.104, lpd: -1.654, lpd_std: 0.26322192588950555, convergence test: [False False  True  True  True  True  True False  True  True  True  True
-  True  True  True False  True  True  True  True] 
-num_virtual: 10, RMSE: 1.136, RMSE_std: 0.087, lpd: -1.626, lpd_std: 0.21991044040685623, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True] 
-num_virtual: 20, RMSE: 1.134, RMSE_std: 0.085, lpd: -1.625, lpd_std: 0.2172262264676283, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True] 
-num_virtual: 50, RMSE: 1.131, RMSE_std: 0.085, lpd: -1.619, lpd_std: 0.20472435552211568, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True] 

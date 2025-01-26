@@ -1,9 +1,0 @@
-model: linear
-num_virtual: 5, RMSE: 1.148, RMSE_std: 0.138, lpd: -1.622, lpd_std: 0.26291615740597435, convergence test: [False False False  True  True  True  True False  True  True  True False
-  True  True  True  True  True False  True False] 
-num_virtual: 10, RMSE: 1.079, RMSE_std: 0.113, lpd: -1.562, lpd_std: 0.2194523252558176, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True] 
-num_virtual: 20, RMSE: 1.076, RMSE_std: 0.111, lpd: -1.557, lpd_std: 0.21109187999949006, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True] 
-num_virtual: 50, RMSE: 1.073, RMSE_std: 0.109, lpd: -1.556, lpd_std: 0.21093223552972695, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True] 
