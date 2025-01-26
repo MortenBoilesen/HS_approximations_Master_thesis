@@ -1,0 +1,31 @@
+model: flat
+m: 2, L: 10, RMSE: 1.037, RMSE_std: 0.078, lpd: -1.493, lpd_std: 0.087, convergence test: [ True False False  True False False False False  True False False  True
+ False False  True False  True False False False] 
+m: 3, L: 10, RMSE: 1.047, RMSE_std: 0.080, lpd: -1.506, lpd_std: 0.095, convergence test: [ True False False False False False False False  True False False  True
+  True False False  True  True False False  True] 
+m: 5, L: 10, RMSE: 1.051, RMSE_std: 0.076, lpd: -1.508, lpd_std: 0.086, convergence test: [False False False  True False False  True False  True False  True  True
+  True False False  True False  True  True  True] 
+m: 10, L: 10, RMSE: 1.058, RMSE_std: 0.079, lpd: -1.513, lpd_std: 0.088, convergence test: [False False False  True  True False  True False  True  True  True  True
+  True False  True  True False  True  True  True] 
+m: 20, L: 10, RMSE: 1.062, RMSE_std: 0.078, lpd: -1.519, lpd_std: 0.090, convergence test: [False  True  True False  True  True  True False False  True  True False
+  True  True  True  True False False  True  True] 
+m: 2, L: 20, RMSE: 1.034, RMSE_std: 0.076, lpd: -1.494, lpd_std: 0.090, convergence test: [False False False False  True False False False False False False  True
+ False False False  True False False False  True] 
+m: 3, L: 20, RMSE: 1.038, RMSE_std: 0.078, lpd: -1.497, lpd_std: 0.091, convergence test: [False  True  True  True  True False  True False False False  True  True
+  True False False  True False False  True  True] 
+m: 5, L: 20, RMSE: 1.041, RMSE_std: 0.078, lpd: -1.497, lpd_std: 0.088, convergence test: [False False  True  True False False  True  True False False False False
+  True  True False  True  True  True False  True] 
+m: 10, L: 20, RMSE: 1.044, RMSE_std: 0.078, lpd: -1.500, lpd_std: 0.087, convergence test: [False False  True  True False False  True  True False  True  True  True
+  True  True  True  True  True False  True  True] 
+m: 20, L: 20, RMSE: 1.049, RMSE_std: 0.077, lpd: -1.506, lpd_std: 0.088, convergence test: [False  True  True  True False  True  True False  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+m: 2, L: 30, RMSE: 1.031, RMSE_std: 0.075, lpd: -1.487, lpd_std: 0.085, convergence test: [False  True False False False  True False False False False False False
+ False  True False False False  True False False] 
+m: 3, L: 30, RMSE: 1.035, RMSE_std: 0.077, lpd: -1.492, lpd_std: 0.087, convergence test: [False False False False False  True False False  True False  True False
+ False False  True False False  True  True  True] 
+m: 5, L: 30, RMSE: 1.035, RMSE_std: 0.077, lpd: -1.493, lpd_std: 0.089, convergence test: [ True False  True  True False  True  True False  True False  True False
+  True False False False  True  True  True False] 
+m: 10, L: 30, RMSE: 1.037, RMSE_std: 0.076, lpd: -1.494, lpd_std: 0.087, convergence test: [False  True  True  True False  True  True  True  True  True False False
+  True  True  True  True False False  True  True] 
+m: 20, L: 30, RMSE: 1.040, RMSE_std: 0.076, lpd: -1.499, lpd_std: 0.088, convergence test: [ True  True  True  True  True False  True  True  True  True  True  True
+  True  True  True  True  True  True False  True] 

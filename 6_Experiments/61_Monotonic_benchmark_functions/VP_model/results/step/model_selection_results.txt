@@ -1,0 +1,9 @@
+model: step
+num_virtual: 5, RMSE: 1.372, RMSE_std: 0.189, lpd: -1.772, lpd_std: 0.22360885547938167, convergence test: [False  True False False  True False  True False False  True  True  True
+ False  True  True  True False False  True False] 
+num_virtual: 10, RMSE: 1.314, RMSE_std: 0.130, lpd: -1.722, lpd_std: 0.10025013562675869, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+num_virtual: 20, RMSE: 1.314, RMSE_std: 0.128, lpd: -1.721, lpd_std: 0.09832741007737997, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+num_virtual: 50, RMSE: 1.314, RMSE_std: 0.127, lpd: -1.722, lpd_std: 0.09843912693303691, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 

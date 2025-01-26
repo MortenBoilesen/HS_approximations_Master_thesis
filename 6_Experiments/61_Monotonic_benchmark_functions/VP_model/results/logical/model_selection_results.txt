@@ -1,0 +1,9 @@
+model: logical
+num_virtual: 5, RMSE: 1.230, RMSE_std: 0.182, lpd: -1.687, lpd_std: 0.2690408723358501, convergence test: [ True  True  True False  True  True  True False  True  True  True  True
+ False  True  True False  True False  True  True] 
+num_virtual: 10, RMSE: 1.186, RMSE_std: 0.144, lpd: -1.639, lpd_std: 0.17059390046743686, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+num_virtual: 20, RMSE: 1.185, RMSE_std: 0.142, lpd: -1.638, lpd_std: 0.1680160980752489, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+num_virtual: 50, RMSE: 1.182, RMSE_std: 0.139, lpd: -1.635, lpd_std: 0.1644978912599195, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 

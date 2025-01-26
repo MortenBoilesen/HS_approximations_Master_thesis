@@ -1,0 +1,13 @@
+model: sinusoidal
+M: 20, T: 1, kernel: matern_32, RMSE: 3.441, RMSE_std: 0.902, lpd: -2.626, lpd_std: 0.373
+M: 20, T: 1, kernel: sq_exp, RMSE: 4.019, RMSE_std: 0.126, lpd: -2.828, lpd_std: 0.037
+M: 20, T: 3, kernel: matern_32, RMSE: 1.248, RMSE_std: 0.646, lpd: -1.665, lpd_std: 0.280
+M: 20, T: 3, kernel: sq_exp, RMSE: 3.971, RMSE_std: 0.176, lpd: -2.814, lpd_std: 0.051
+M: 20, T: 5, kernel: matern_32, RMSE: 1.236, RMSE_std: 0.632, lpd: -1.660, lpd_std: 0.271
+M: 20, T: 5, kernel: sq_exp, RMSE: 3.827, RMSE_std: 0.556, lpd: -2.763, lpd_std: 0.205
+M: 40, T: 1, kernel: matern_32, RMSE: 3.948, RMSE_std: 0.161, lpd: -2.810, lpd_std: 0.044
+M: 40, T: 1, kernel: sq_exp, RMSE: 4.015, RMSE_std: 0.127, lpd: -2.822, lpd_std: 0.035
+M: 40, T: 3, kernel: matern_32, RMSE: 2.236, RMSE_std: 1.188, lpd: -2.155, lpd_std: 0.520
+M: 40, T: 3, kernel: sq_exp, RMSE: 4.005, RMSE_std: 0.136, lpd: -2.812, lpd_std: 0.038
+M: 40, T: 5, kernel: matern_32, RMSE: 1.069, RMSE_std: 0.082, lpd: -1.716, lpd_std: 0.117
+M: 40, T: 5, kernel: sq_exp, RMSE: 3.996, RMSE_std: 0.152, lpd: -2.822, lpd_std: 0.044

@@ -1,0 +1,19 @@
+\begin{table}[] 
+ \centering
+\begin{tabular}{lrlrlrlrl}
+\hline
+ &  \multicolumn{2}{c}{baseline GP}  &  \multicolumn{2}{c}{HS model}  &  \multicolumn{2}{c}{VP model}  &  \multicolumn{2}{c}{SDE model}  \\
+\hline
+flat & -1.646 & $\pm$ 0.039 & \textbf{-1.516} & $\pm$ 0.026 & -1.528 & $\pm$ 0.021 & -1.829 & $\pm$ 0.037 \\
+sinusoidal & -1.654 & $\pm$ 0.024 & -1.600 & $\pm$ 0.023 & \textbf{-1.547} & $\pm$ 0.026 & -1.801 & $\pm$ 0.031 \\
+step & -1.741 & $\pm$ 0.036 & \textbf{-1.652} & $\pm$ 0.019 & -1.735 & $\pm$ 0.022 & -2.113 & $\pm$ 0.03 \\
+linear & -1.579 & $\pm$ 0.018 & -1.550 & $\pm$ 0.015 & \textbf{-1.543} & $\pm$ 0.031 & -1.733 & $\pm$ 0.028 \\
+exp & -1.587 & $\pm$ 0.014 & -1.583 & $\pm$ 0.016 & \textbf{-1.553} & $\pm$ 0.012 & -1.797 & $\pm$ 0.021 \\
+logical & -1.610 & $\pm$ 0.031 & \textbf{-1.565} & $\pm$ 0.025 & -1.585 & $\pm$ 0.023 & -1.645 & $\pm$ 0.019 \\
+\hline
+\textbf{mean rank} & \multicolumn{2}{c}{\textbf{3.0}} & \multicolumn{2}{c}{\textbf{1.5}} & \multicolumn{2}{c}{\textbf{1.5}} & \multicolumn{2}{c}{\textbf{4.0}}\\
+\hline
+\end{tabular}
+\caption{lpd}
+\label{tab:lpd}
+\end{table}

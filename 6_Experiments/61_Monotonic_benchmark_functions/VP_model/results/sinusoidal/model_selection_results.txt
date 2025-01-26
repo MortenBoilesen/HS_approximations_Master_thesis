@@ -1,0 +1,9 @@
+model: sinusoidal
+num_virtual: 5, RMSE: 1.157, RMSE_std: 0.142, lpd: -1.630, lpd_std: 0.24550164015672987, convergence test: [ True False False  True  True  True False False  True  True False False
+  True  True  True  True False  True False  True] 
+num_virtual: 10, RMSE: 1.109, RMSE_std: 0.101, lpd: -1.596, lpd_std: 0.21415005951207067, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+num_virtual: 20, RMSE: 1.106, RMSE_std: 0.099, lpd: -1.592, lpd_std: 0.21033273331718738, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
+num_virtual: 50, RMSE: 1.103, RMSE_std: 0.097, lpd: -1.590, lpd_std: 0.2063230431752297, convergence test: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True] 
